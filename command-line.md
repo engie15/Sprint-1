@@ -26,7 +26,7 @@ Let's begin...
 
 
 1. (pwd) stands for printer working directory.
-In Command Line, we call folders - directories.  If you want to know what directory you are in, you will type (pwd), hit enter and this will show you were you are in terminal.
+In Command Line, we call folders - directories.  If you want to know what directory you are in, you will type (pwd), hit enter and this will show you where you are in the terminal.
 
 2. (hostname) - this command will tell you your computers network name.  In most cases, your network name is usually the name of ther person who owns the computer or laptop you are using.
 
@@ -40,7 +40,7 @@ In Command Line, we call folders - directories.  If you want to know what direct
 
 7. (ls -alt) - this command will combine and use all three at once.
 
-8. (cd (file/directory name)) - cd stands for change directory.  This command will move you to another file in the same directory. e.g. I have a parent folder called Fruit, with two sub folders called Bananas and Apples.  I am in the Bananas folder and want to move into the Apples folder.  To do so I will type the command(cd Apples), hit enter.
+8. (cd (file/directory name)) - cd stands for change directory.  This command will move you to another file in the same directory. e.g. I have a parent folder called Fruit, with two sub folders called Bananas and Apples.  I am in the Bananas folder and want to move into the Apples folder.  To do so I will type the command (cd Apples), hit enter.
 
 9. (cd ..) - this command will take me back to the parent folder.  e.g. Like the example above, I am in the Apples file and want to go back to the parent folder.  To do so I will type the command (cd ..)
 
