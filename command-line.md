@@ -7,21 +7,21 @@
   <body>
 <h1>What is Command Line?<h1>
   </body>
-</html>
+
 <p>Command line is a another language you can learn to be able to create, navigate or control your computer, instead of using your mouse.</p> 
   <body>
 
 <h1>What do you need to be able to use Command Line?<h1>
   </body>
-</html>
+
 <p>To be able to use Command Line, you need to know what a 'terminal' is and a few basic 'terminal commands' to get you started in using Command Line.</p>
 
   <body>
 <h1>What is a 'terminal'?<h1>
   </body>
-</html>
+
 <p>A terminal is a piece of software you will need to be able to utilise Command Line.  It will look like a black screen where you will be able to type/write 'terminal commands'.  (In most terminals you will type/write in white).  
-I use either the Git Bash or Babun terminal.  Download a terminal software you would like to use.
+I use either Git Bash or Babun terminal's.  Download a terminal software you would like to use.
 
 Now you have your 'terminal' software, we can start using 'terminal commands'.  'Terminal commands' are like the a,b,c's of command line.  The more terminal commands you familiarise yourself with, the easier it will be for you to use Command Line on your computer.
 
@@ -32,7 +32,8 @@ Let's begin...</p>
   <body>
 <h1>10 basic 'Terminal commands':<h1>
   </body>
-</html>
+
+
 <p>1. (pwd) stands for printer working directory.
 In Command Line, we call folders - directories.  If you want to know what directory you are in, you will type (pwd), hit enter and this will show you were you are in terminal.
 
@@ -53,3 +54,4 @@ In Command Line, we call folders - directories.  If you want to know what direct
 9. (cd ..) - this command will take me back to the parent folder.  e.g. Like the example above, I am in the Apples file and want to go back to the parent folder.  To do so I will type the command (cd ..)
 
 10. (mkdir) - this command will make a new directory within the file you are in.  e.g.  I'm now in the parent folder called Fruit.  I want to make a directory called Oranges.  To do so I will type (mkdir Oranges) and hit enter.</p>  
+</html>
